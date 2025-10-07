@@ -99,6 +99,7 @@ Options:
 * Use a free tool: draw\.io, Lucidchart, or Miro.
 
 **Sketch Space:**
+```
 [ Home ]
    ├── [ About ]
    │       └── [ Rules & Prizes ]
@@ -106,6 +107,8 @@ Options:
    ├── [ Leaderboard ]
    └── [ Contact ]
            └── [ Sign-up Form / Social Links ]
+```
+
 
 
 ## Step 4: Reflect
@@ -118,11 +121,10 @@ Answer these reflection prompts in 3–4 sentences:
 
 **My Reflection:**
 
-```
-___________________________________________________________
-___________________________________________________________
-___________________________________________________________
-```
+
+
+
+My site is for FC25 gamers and fans, so I made sure the sitemap puts sign-ups, match times, and scores up front. I wasn’t sure where to put the rules and prizes, but sticking them in “About” made it less confusing. I’ll use simple page names, add image captions, and make sure it works on phones and computers so everyone can find stuff and join the event without any hassle.
 
 ---
 
