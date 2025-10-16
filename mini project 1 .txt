@@ -1,0 +1,65 @@
+
+
+---
+
+ Website Evaluation (Reference Site)
+
+Reference Website: [https://seniorskingston.ca](https://seniorskingston.ca)
+Site Name: Seniors Association Kingston Region
+Target Audience: Seniors (60+) in Canada who want to join local programs or activities.
+Purpose: To share information and help older people connect with their community.
+
+| Criteria                        | Findings / Examples                                   | Recommendations for Corah Website                                     |
+| ------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------- |
+|   Navigation & Menu Structure   | Menu is clear but has too many links and small text.  | Make fewer, bigger buttons for main pages like Home, Events, and Contact. |
+|   Text Readability              | Some parts have low contrast.                         | Use dark text on light background and bigger font.                        |
+|   Alt Text & Images             | Some pictures don’t have alt text.                    | Add short clear descriptions for every image.                             |
+|   Forms                         | Forms work but need better labels for screen readers. | Add ARIA labels and simple instructions.                                  |
+|   Mobile Use                    | Works on phones but some buttons are too small.       | Make big buttons and clear layouts for all screens.                       |
+
+**Summary:**
+The website is useful but not very easy for seniors to read or click on phones. For Corah, I’ll focus on big text, clean design, and clear navigation.
+
+---
+
+ Content Inventory
+
+| **Page / Section** | **Content Item**     | **Type**   | **Source** | **Priority** | **Notes**                            |
+| ------------------ | -------------------- | ---------- | ---------- | ------------ | ------------------------------------ |
+| Homepage           | Welcome message      | Text       | New        | High         | Friendly message to visitors.        |
+| Homepage           | Hero image           | Image      | New        | High         | Picture showing seniors at an event. |
+| About Us           | Mission statement    | Text       | New        | Medium       | Explains Corah’s goal clearly.       |
+| Events             | Upcoming events      | Text       | Existing   | High         | Include event names and dates.       |
+| Register           | Registration form    | Form       | New        | High         | Keep it simple and easy.             |
+| Contact Us         | Contact form         | Form       | New        | High         | Add labels for screen readers.       |
+| Footer             | Links + social media | Text/Links | New        | Medium       | For easy navigation and trust.       |
+
+---
+
+  Sitemap
+Home
+|
+|-- About Us
+|    |-- Mission
+|    |-- Our Team
+|
+|-- Events
+|    |-- Upcoming Events
+|    |-- Past Events
+|
+|-- Register
+|    |-- Registration Form
+|
+|-- Contact Us
+|    |-- Contact Form
+|    |-- Location & Map
+|
+|-- Footer (Links & Social Media)
+
+---
+
+  Reflection
+
+When I looked at the Seniors Kingston site, I saw that the design was good but a bit hard for older people to use. Some text was too small and light. For my Corah website, I want everything simple and clear. I used big fonts, fewer buttons, and high color contrast. I also made sure all pictures and forms are accessible for everyone. The sitemap helps people move easily between pages without getting lost. Doing this project taught me how small changes—like button size or color—can really help seniors use a website better. I want Corah’s site to feel friendly, warm, and easy for everyone, especially older users in Nova Scotia.
+
+---
