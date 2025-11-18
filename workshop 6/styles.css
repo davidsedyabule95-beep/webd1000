@@ -1,0 +1,120 @@
+/* styles.css */
+
+/* Reset box-sizing for all elements for easier layout */
+* {
+  box-sizing: border-box;
+}
+
+/* Basic body styles */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+  background-color: #fff; /* optional: light background */
+  color: #333; /* default text color */
+}
+
+/* Style headings for clear hierarchy */
+h1, h2, h3 {
+  font-weight: 700;
+  margin-bottom: 0.5em;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.75em;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+/* Style paragraphs for readability */
+p {
+  margin-bottom: 1em;
+}
+
+/* Basic link styles */
+a {
+  text-decoration: none;
+  color: #7B458F; /* CORAH brand purple */
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Style header for header section */
+header {
+  background-color: #F9FAFB;
+  padding: 1rem;
+  border-bottom: 2px solid #7B458F;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* Style the logo group inside header */
+.logo-group {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+/* Style for images inside logo group */
+.logo-group img {
+  max-height: 50px; /* adjust as needed */
+}
+
+/* Style navigation container */
+.nav-container {
+  display: flex;
+  gap: 1rem;
+}
+
+/* Style navigation links */
+.nav-container a {
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+}
+
+.nav-container a:hover {
+  background-color: #eee;
+}
+
+/* Style for aside (sidebar) */
+aside {
+  background-color: #f4f4f4;
+  padding: 1rem;
+  margin-top: 2rem;
+  border-radius: 4px;
+}
+
+/* Style footer */
+footer {
+  background-color: #222;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+  margin-top: 3rem;
+}
+
+/* Optional: add some spacing for main content */
+main {
+  padding: 2rem;
+}
+
+/* Demonstrate box model - optional example for experimenting */
+.box-demo {
+  padding: 10px;
+  border: 2px solid #E5E7EB;
+  margin: 20px 0;
+}
+
+/* Additional custom styles can be added as needed */
